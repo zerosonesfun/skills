@@ -1,6 +1,8 @@
 # skills
 A JavaScript array of job skills. This obviously doesn't do anything on its own. But it can be used if you need a list of skills to match against.
 
+If you find this useful, please help by adding more skills via pull request.
+
 ~~~
  const matchTerms = [
   'communication',
